@@ -1,7 +1,7 @@
 {
   "url": "https://spica.fund",
   "name": "Spica!",
-  "iconUrl": "https://spica.fund/img/spica.png",
+  "iconUrl": "https://raw.githubusercontent.com/pititokenmeme/spica/refs/heads/main/appSpica.png",
   "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
   "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
